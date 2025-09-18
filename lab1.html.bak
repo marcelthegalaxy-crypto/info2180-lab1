@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>INFO2180 Lab 1</title>
+</head>
+<body style="background-color: #228B22; color: #FF6347;">
+    <header>
+        <h1>INFO2180 Lab 1</h1>
+        <p>This is a simple webpage for Lab 1 of INFO2180.</p>
+    </header>
+    <main>
+        <h2>Marcel Shields</h2>
+		
+        <p style="color:#FF6347;">Welcome to my webpage! My name is Marcel, and I’m 21 years old. I consider myself a curious and driven individual. I currently play basketball for UWI, and in the future, I aspire to become a Database Manager, Software Architect, or Software Engineer.
+Some quick facts about me:
+
+My favorite color is red.
+
+My favorite meal is cow liver with rice—simple but delicious!
+
+My hobbies include working out, reading books and notes that expand my knowledge, and watching anime.</p>
+<img src="image.jpg" alt=""C:\Users\razor\Desktop\Info fold\Screenshot_20250806_202907_WhatsApp.jpg"">
+    </main>
+    <footer>
+        <p>Copyright &copy; 2020 <Your Name>.</p>
+    </footer>
+</body>
+</html>
+
